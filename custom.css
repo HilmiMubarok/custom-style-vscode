@@ -4,41 +4,6 @@
   font-family: "BlexMono Nerd Font" !important;
 }
 
-/* adsad */
-
-/* 
-
-=> -> >= <= == === != !==
-
-BlexMono Nerd Font Mono
-CodeNewRoman Nerd Font 
-FantasqueSansM Nerd Font
-GohuFont 11 Nerd Font
-Hurmit Nerd Font
-iMWritingDuo Nerd Font
-OverpassM Nerd Font
-Terminess Nerd Font
-VictorMono Nerd Font
-CaskaydiaCove Nerd Font
-
-
-*/
-
-/* Toolbars when tabs are enabled. */
-/* .monaco-workbench
-  .part.editor
-  > .content
-  .editor-group-container
-  > .title
-  .editor-actions {
-  display: none !important;
-} */
-
-/* Side bar */
-/* .part.sidebar {
-  background: #2a2b38 !important;
-} */
-
 /* File Explorer Selected Item */
 .monaco-list.list_id_1 .monaco-list-row.selected {
   background-color: #4f5971 !important;
@@ -49,12 +14,6 @@ CaskaydiaCove Nerd Font
 .monaco-list.list_id_1 .monaco-list-row:hover {
   border-radius: 50px;
 }
-
-/* List item label name */
-/* .monaco-list.list_id_1 .monaco-list-row.selected .label-name {
-  color: #fff !important;
-  opacity: 1 !important;
-} */
 
 /* File explorer action buttons */
 .monaco-workbench .part.sidebar .title-actions .actions-container {
@@ -70,12 +29,6 @@ CaskaydiaCove Nerd Font
   color: #fff !important;
 }
 
-/* Sidebar top shadow */
-/* .monaco-scrollable-element > .shadow.top {
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.75) !important;
-  top: -3px !important;
-} */
-
 /* Sidebar title */
 .composite.title {
   display: flex !important;
@@ -88,7 +41,6 @@ CaskaydiaCove Nerd Font
   font-weight: bold !important;
   font-size: 12px !important;
   text-transform: uppercase;
-  /* color: #bc9abc !important; */
 }
 
 .composite.title h2::before {
@@ -167,7 +119,6 @@ CaskaydiaCove Nerd Font
 }
 
 .monaco-list-row {
-  /* padding: 8px 16px !important; */
   border-radius: 12px !important;
 }
 
@@ -199,7 +150,6 @@ CaskaydiaCove Nerd Font
 }
 
 .active {
-  /* background-color: #1b4ec4 !important; */
   border-radius: 22px !important;
 }
 
@@ -207,11 +157,6 @@ CaskaydiaCove Nerd Font
 .monaco-inputbox input::placeholder {
   color: rgba(255, 255, 255, 0.3) !important;
 }
-
-/* .monaco-workbench label {
-    color: #fff !important;
-    font-size: 14px !important;
-} */
 
 /* Container that holds the VS Code home icon. */
 .editor-group-watermark {
