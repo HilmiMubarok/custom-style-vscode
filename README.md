@@ -9,7 +9,6 @@ This repository contains custom CSS and JavaScript files to improve the appearan
 - [Custom JavaScript](#custom-javascript)
 - [Installation and Usage](#installation-and-usage)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 
 ## Files
 
